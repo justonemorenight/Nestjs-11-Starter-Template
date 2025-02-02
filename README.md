@@ -1,3 +1,7 @@
+# NestJS 11 Boilerplate
+
+A modern NestJS 11 starter template with latest features implementation including Express v5, JSON logging, graceful shutdown, and more.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
